@@ -1,3 +1,12 @@
-{
-  "picture": "picture"
-}
+[
+  {
+    "name": "from S3 Bucket",
+    "size": "hardcoded",
+    "type": "hardcoded"
+  },
+  {
+    "name": "from S3 Bucket",
+    "size": "hardcoded",
+    "type": "hardcoded"
+  }
+]
