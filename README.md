@@ -2,7 +2,7 @@
 
 ## Author: Alan Chelko
 
-    * Collaboration: in-class demos
+    * Collaboration: in-class demos, Robert Ball, Felix Yu (online)
 
 ## Problem Domain
 
@@ -26,7 +26,7 @@
 
 ### Link to images.json file
 
-[images.json.file]('/images/json)
+[images.json file](https://lab-17-student.s3.amazonaws.com/images.json)
 
 ![images.json](assets/images-json.png)
 
